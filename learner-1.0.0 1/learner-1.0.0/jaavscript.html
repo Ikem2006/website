@@ -1,0 +1,20 @@
+<html>
+    <script>
+    function sizeofstring(array) {
+    let result = [];
+    for (let i = 0; i < array.length; i++) {
+        if (array[i].length > 5) {
+            result.push(array[i]);
+        }
+    }
+    return result;
+}
+
+// Example usage:
+const strings = ["apple", "banana", "orange", "kiwi", "grapefruit", "pear"];
+console.log(filterStrings(strings)); // Output: ["banana", "orange", "grapefruit"]
+
+
+    </script>
+</html>
+    
