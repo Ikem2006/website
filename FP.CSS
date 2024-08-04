@@ -1,0 +1,81 @@
+h1{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+nav{
+background-color: black;
+margin-top: 10px;
+margin-bottom: 10px;
+padding-top: 20px;
+padding-bottom: 20px;
+display: flex;
+justify-content: flex-end;
+
+}
+button{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: bisque;
+}
+h3{
+    text-align: center;
+    background-color: rgb(119, 30, 30);
+    color: white;
+    margin: 20px;
+
+}
+.menu{
+    display: flex;
+    gap: 50px;
+}
+.food{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.M{
+display: block;
+}
+
+.hi{
+    text-align: center;
+    background-color: rgb(113, 30, 30);
+    color: white;
+    margin: 20px;
+}
+.snack{
+    display: flex;
+    gap: 50px;
+}
+
+.SS{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.drinks{
+    text-align: center;
+    background-color: rgb(113, 30, 30);
+    color: white;
+    margin: 20px; 
+}
+.fresh{
+    display: flex;
+    gap: 50px;
+}
+.hid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.sis{
+    text-align: center;
+    background-color: rgb(121, 0, 0);
+    color: white;
+    margin: 10px;
+}
