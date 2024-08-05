@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    background-color: rgb(134, 20, 20);
+}
+h3{
+    text-align: center;
+}
+.place{
+    text-align: center;
+}
+button{
+    text-align: center;
+    background-color: yellowgreen;
+    color: white;
+}
